@@ -1,0 +1,27 @@
+body {
+	background-color: lightpink;
+}
+h1 {
+	color: yellow;
+}
+h1 {
+	font-family: Georgia, serif;
+}
+h2 {
+	color: blue;
+}
+h2 {
+	font-family: Georgia, serif;
+}
+.destaque{
+	color:purple;
+}
+.destaque{
+	margin: 20px
+}
+
+/*
+1. Desafio técnico: A regra CSS que eu achei mais díficl de programar foi conseguir ligar o ficheiro CSS ao HTML. Superei o problema ao testar o código e ao atualizar o navegador.
+2. Correção de Síntaxe: O erro mais comum que cometi foi o nome do ficheiro estar errado ou faltarem pontos e vírgulas.
+3. Autoria: O atributo "src" serve dizer ao navegador onde eu guardei a imagem eu quero colocar, funcionando como se fosse o caminho para a pasta do meu computador onde está guardada a imagem.
+*/
